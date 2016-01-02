@@ -55,3 +55,14 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Eclipse
+.project
+.pydevproject
+
+# Data
+donations/
+sf1/
+
+# Jupyter
+.ipynb_checkpoints/
