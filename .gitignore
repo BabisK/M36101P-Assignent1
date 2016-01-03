@@ -63,6 +63,8 @@ target/
 # Data
 donations/
 sf1/
+djia/
+helpernotebooks/
 
 # Jupyter
 .ipynb_checkpoints/
